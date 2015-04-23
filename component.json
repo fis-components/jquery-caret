@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/ichord/Caret.js",
+    "version": "v0.2.2",
+    "description": "Get caret postion and offset from text field http://ichord.github.com/Caret.js",
+    "name": "jquery-caret",
+    "main": "jquery.caret.js",
+    "dependencies": [
+        "jquery@>=1.7.0"
+    ]
+}
